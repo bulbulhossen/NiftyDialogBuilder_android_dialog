@@ -36,7 +36,7 @@ public class ListMain extends AppCompatActivity {
                                 .withTitle("Bangladesh")
                                 .withEffect(Fliph)
                                 .withDuration(300)
-                                .withDialogColor("#FFFA0A")
+                                .withDialogColor("#3C3F41")
                                 .show();
                         break;
                     case 1:
